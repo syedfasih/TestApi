@@ -1,0 +1,14 @@
+D:\Fasih\TestApi\TestApi\bin\TestApi.dll.config
+D:\Fasih\TestApi\TestApi\bin\TestApi.dll
+D:\Fasih\TestApi\TestApi\bin\TestApi.pdb
+D:\Fasih\TestApi\TestApi\bin\Newtonsoft.Json.dll
+D:\Fasih\TestApi\TestApi\bin\System.Net.Http.Formatting.dll
+D:\Fasih\TestApi\TestApi\bin\System.Web.Http.dll
+D:\Fasih\TestApi\TestApi\bin\System.Web.Http.WebHost.dll
+D:\Fasih\TestApi\TestApi\bin\Newtonsoft.Json.xml
+D:\Fasih\TestApi\TestApi\bin\System.Net.Http.Formatting.xml
+D:\Fasih\TestApi\TestApi\bin\System.Web.Http.xml
+D:\Fasih\TestApi\TestApi\bin\System.Web.Http.WebHost.xml
+D:\Fasih\TestApi\TestApi\obj\Debug\TestApi.csprojResolveAssemblyReference.cache
+D:\Fasih\TestApi\TestApi\obj\Debug\TestApi.dll
+D:\Fasih\TestApi\TestApi\obj\Debug\TestApi.pdb
